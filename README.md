@@ -8,12 +8,12 @@ This tool help you:
 ## 1. LabelMe json to txt:
 The json format:
 
-![plot](https://github.com/VoNhatVinh/LabelMe-To-Txt-Yolo-txt-converter-/blob/main/image/json.jpg)
+![plot](https://github.com/VoNhatVinh/LabelMe-Json-To-Yolo-txt-converter-/blob/main/utils/json.jpg)
 
 
 The txt format:
 
-![plot](https://github.com/VoNhatVinh/LabelMe-To-Txt-Yolo-txt-converter-/blob/main/image/txt.PNG)
+![plot](https://github.com/VoNhatVinh/LabelMe-Json-To-Yolo-txt-converter-/blob/main/utils/txt.PNG)
 
 
 ### How to run
