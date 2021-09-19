@@ -1,4 +1,4 @@
-# LabelMe-To-Txt-Yolo-txt-converter
+# LabelMe json to yolo txt converter
 Convert LabelMe JSON format to YOLO text file format
 
 This tool help you:
