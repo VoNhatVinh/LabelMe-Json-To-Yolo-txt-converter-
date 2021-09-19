@@ -1,7 +1,7 @@
 # LabelMe json to yolo txt converter
 Convert LabelMe JSON format to YOLO text file format
 
-This tool help you:
+This tool helps you:
 - Convert from LabelMe json annotation file to Yolo text file format for training darknet.
 - Visualize the bounding box from Yolo text file (txt) to image.
 
